@@ -2,6 +2,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Test Github conflict");
+        System.out.println("Ok, I also test that");
     }
 }
